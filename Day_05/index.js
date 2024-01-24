@@ -2,7 +2,6 @@ let frutas = [];
 let laticinios = [];
 let congelados = [];
 let doces = [];
-// let listaDeCompras = [frutas, laticinios, congelados, doces];
 
 let msg = prompt(
   "Gostaria de adicionar um item na sua lista de compras? Responda com 'sim' ou 'não'."
